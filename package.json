@@ -1,0 +1,24 @@
+{
+  "name": "belajarnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r11firdaus/belajarnodejs.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "Reza Firdaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r11firdaus/belajarnodejs/issues"
+  },
+  "homepage": "https://github.com/r11firdaus/belajarnodejs#readme"
+}
